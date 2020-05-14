@@ -1,5 +1,13 @@
 package com.yh.springboot_01.pojo;
 
+/**
+ * @param smsAccount 发送短信的账号
+ * @param smsPwd 发送短信密码
+ * @param smsURL 发送短信服务的地址
+ * @param smsContent 发送短信的内容
+ * @author VKUSER017
+ *
+ */
 public class SMSInfo {
 	
       private String smsAccount;
